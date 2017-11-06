@@ -7,6 +7,7 @@ import { AppRegistry } from 'react-native';
 // import App from './src/LotsOfStyles'
 // import App from './src/FixedDimensionsBasics'
 // import App from './src/layout/FlexDimensionsBasics'
-import App from './src/layout/FlexDimensionsHorizontally'
+// import App from './src/layout/FlexDimensionsHorizontally'
+import App from './src/layout/FlexDimensionsJustify'
 
 AppRegistry.registerComponent('reactNativeApp', () => App);
