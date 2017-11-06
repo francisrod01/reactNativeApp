@@ -10,6 +10,7 @@ import {AppRegistry} from 'react-native'
 // import App from './src/layout/FlexDimensionsHorizontally'
 // import App from './src/layout/FlexDimensionsJustify'
 // import App from './src/layout/FlexDimensionsAlignCenter'
-import App from './src/inputs/PizzaTranslator'
+// import App from './src/inputs/PizzaTranslator'
+import App from './src/buttons/ButtonBasics'
 
 AppRegistry.registerComponent('reactNativeApp', () => App)
