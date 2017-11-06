@@ -1,5 +1,5 @@
-import React, {Component} from 'react';
-import {View} from 'react-native';
+import React, {Component} from 'react'
+import {View} from 'react-native'
 
 export default class FlexDimensionsBasics extends Component {
     render() {
@@ -12,6 +12,6 @@ export default class FlexDimensionsBasics extends Component {
                 <View style={{flex: 2, backgroundColor: 'skyblue'}}/>
                 <View style={{flex: 3, backgroundColor: 'steelblue'}}/>
             </View>
-        );
+        )
     }
 }
