@@ -13,6 +13,7 @@ import {AppRegistry} from 'react-native'
 // import App from './src/components/inputs/PizzaTranslator'
 // import App from './src/components/buttons/ButtonBasics'
 // import App from './src/components/buttons/Touchables'
-import App from './src/components/IScrolledDown'
+// import App from './src/components/IScrolledDown'
+import App from './src/components/lists/FlatListBasics'
 
 AppRegistry.registerComponent('reactNativeApp', () => App)
