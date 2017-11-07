@@ -16,6 +16,7 @@ import {AppRegistry} from 'react-native'
 // import App from './src/components/IScrolledDown'
 // import App from './src/components/lists/FlatListBasics'
 // import App from './src/components/lists/SectionListBasics'
-import App from './src/components/networking/FetchExample'
+// import App from './src/components/networking/FetchExample'
+import App from './src/components/networking/FetchCustomExample'
 
 AppRegistry.registerComponent('reactNativeApp', () => App)
