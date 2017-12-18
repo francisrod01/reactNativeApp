@@ -1,4 +1,6 @@
 import {AppRegistry} from 'react-native'
+
+import App from './src/App-nav'
 // import App from './src/components/App'
 // import App from './src/components/HelloWorldApp'
 // import App from './src/components/Bananas'
@@ -18,6 +20,6 @@ import {AppRegistry} from 'react-native'
 // import App from './src/components/lists/SectionListBasics'
 // import App from './src/components/networking/FetchExample'
 // import App from './src/components/networking/FetchCustomExample'
-import App from './src/components/networking/FetchGithubRepos'
+// import App from './src/components/networking/FetchGithubRepos'
 
 AppRegistry.registerComponent('reactNativeApp', () => App)
